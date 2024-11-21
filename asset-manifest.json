@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Form-Generator/static/css/main.ac16af31.css",
+    "main.js": "/Form-Generator/static/js/main.c6804de7.js",
+    "index.html": "/Form-Generator/index.html",
+    "main.ac16af31.css.map": "/Form-Generator/static/css/main.ac16af31.css.map",
+    "main.c6804de7.js.map": "/Form-Generator/static/js/main.c6804de7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac16af31.css",
+    "static/js/main.c6804de7.js"
+  ]
+}
